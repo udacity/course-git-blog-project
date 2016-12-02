@@ -20,4 +20,15 @@ html {
 
 body {
     background-color: #fafbfc;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2,
+h3,
+h4 {
+    font-family: 'Open Sans', sans-serif;
 }
