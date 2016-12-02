@@ -17,3 +17,7 @@ html {
 *::after {
     box-sizing: inherit;
 }
+
+body {
+    background-color: #fafbfc;
+}
