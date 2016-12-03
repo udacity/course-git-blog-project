@@ -54,6 +54,22 @@ article img {
     width: 100%;
 }
 
+.read-more {
+    color: #02ccba;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.read-more::after {
+    content: '►';
+    position: relative;
+    left: 7px;
+    font-size: 80%;
+    top: -1px;
+}
+
 
 /*** Helper Classes ***/
 
