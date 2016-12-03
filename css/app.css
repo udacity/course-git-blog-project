@@ -40,6 +40,10 @@ article header {
     justify-content: space-between;
 }
 
+time {
+    color: #7d97ad;
+}
+
 article img {
     height: auto;
     width: 100%;
