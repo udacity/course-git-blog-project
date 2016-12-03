@@ -79,6 +79,15 @@ aside {
 }
 
 
+/*** Footer Styling ***/
+footer {
+    border-top: 2px solid #dbe2e8;
+    margin-top: 4em;
+    padding: 2em;
+    text-align: center;
+}
+
+
 /*** Helper Classes ***/
 
 /* from the HTML5 Boilerplate project for hidden, but accessible headings: https://github.com/h5bp/html5-boilerplate/blob/master/dist/css/main.css#L126-L145 */
