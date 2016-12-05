@@ -68,6 +68,11 @@ h1::after {
 
 
 /*** Article Styling ***/
+article,
+aside {
+    margin: 2em;
+}
+
 article header {
     display: flex;
     align-items: baseline;
