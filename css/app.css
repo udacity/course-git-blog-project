@@ -78,6 +78,11 @@ aside {
     padding-top: 2em;
 }
 
+.social-link {
+    display: inline-block;
+    margin-right: 0.75em;
+}
+
 
 /*** Footer Styling ***/
 footer {
