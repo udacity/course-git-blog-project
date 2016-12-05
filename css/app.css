@@ -142,6 +142,37 @@ footer {
     }
 }
 
+@media (min-width: 1000px) {
+    .page-header {
+        min-height: 35vh;
+    }
+
+    .container {
+        display: flex;
+    }
+
+    main {
+        flex: 1 1 70%;
+    }
+
+    aside {
+        display: block;
+        border-top: 0;
+        border-left: 2px solid #dbe2e8;
+        margin: 0;
+        padding: 2em;
+        flex: 0 1 30%;
+        align-self: flex-start;
+    }
+
+    .sidebar-text {
+        margin-left: 0;
+    }
+
+    .sidebar-text h2 {
+        margin-top: 0.5em;
+    }
+}
 
 /*** Helper Classes ***/
 
