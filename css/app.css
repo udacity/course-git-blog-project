@@ -38,6 +38,11 @@ p {
     line-height: 1.5;
 }
 
+.container {
+    margin: auto;
+    max-width: 1300px;
+}
+
 
 /*** Header Styling ***/
 .page-header {
