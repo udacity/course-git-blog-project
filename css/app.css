@@ -52,14 +52,14 @@ p {
     text-align: center;
     padding: 1em;
     margin-bottom: 2rem;
-    min-height: 25vh;
+    min-height: 30vh;
 }
 
 h1 {
     letter-spacing: 8px;
     position: relative;
     text-transform: uppercase;
-    text-shadow: 0 0 1px white;
+    text-shadow: 0 0 1px black;
 }
 
 h1::after {
