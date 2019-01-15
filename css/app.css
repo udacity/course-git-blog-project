@@ -43,7 +43,18 @@ p {
     max-width: 1300px;
 }
 
-
+#florida{
+    background-color: #343434;
+    
+}
+#paris{
+    background-color: #3a1c1c;
+    
+}
+#london{
+    background-color: #a33030;
+    
+}
 /*** Header Styling ***/
 .page-header {
     background-image: url('../img/headerimage.jpg');
