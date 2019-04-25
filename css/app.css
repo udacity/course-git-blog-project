@@ -25,11 +25,15 @@ body {
 }
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Times New Roman", Times, serif;
 }
 
-h2,
-h3,
+h2{
+	font-family: "Arial", Helvetica, sans-serif;
+}
+h3{
+	font-family: "Times New Roman", Times, serif;
+}
 h4 {
     font-family: 'Open Sans', sans-serif;
 }
