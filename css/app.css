@@ -109,9 +109,9 @@ article img {
 
 /*** Sidebar Styling ***/
 aside {
-    border-top: 2px solid #dbe2e8;
-    margin-top: 2em;
-    padding-top: 2em;
+    border-top: 3px solid #dbe2e8;
+    margin-top: 3em;
+    padding-top: 3em;
 }
 
 .social-link {
