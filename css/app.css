@@ -131,7 +131,7 @@ footer {
 
 
 /*** Reponsive Styles ***/
-@media (min-width: 650px) {
+@media (min-width: 675px) {
     aside {
         display: flex;
     }
@@ -145,7 +145,7 @@ footer {
     }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 870px) {
     .page-header {
         min-height: 35vh;
     }
