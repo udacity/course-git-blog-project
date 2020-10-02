@@ -62,6 +62,10 @@ h1 {
     text-shadow: 0 0 1px white;
 }
 
+h1:hover{
+    mix-blend-mode: screen;
+}
+
 h1::after {
     border: 5px solid #02ccba;
     border-radius: 50%;
@@ -91,6 +95,10 @@ time {
 article img {
     height: auto;
     width: 100%;
+}
+
+img:hover{
+    transform: scale(1.05);
 }
 
 .read-more {
