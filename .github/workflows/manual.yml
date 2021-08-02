@@ -33,7 +33,7 @@ jobs:
         project: CONUPDATE
         issuetype: Task
         summary: |
-          Github PR - nd000	IPND | Repo: course-git-blog-project  | PR# ${{github.event.number}}
+          Github PR - nd104	PDSND | Repo: course-git-blog-project  | PR# ${{github.event.number}}
         description: |
            Repo link: https://github.com/${{ github.repository }}   
            PR no. ${{ github.event.pull_request.number }} 
